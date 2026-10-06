@@ -1,0 +1,1 @@
+# Screen-translate-with-EasyOCR-and-typhoon-translate1.5-4b
